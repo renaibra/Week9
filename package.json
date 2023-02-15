@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renaibra/Week9.git"
+    "url": "https://github.com/renaibra/Week9"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/renaibra/Week9/issues"
-  },
-  "homepage": "https://github.com/renaibra/Week9#readme",
+  "homepage": "https://github.com/renaibra/Week9/index.html",
   "devDependencies": {
     "bootstrap": "^4.4.1"
   }
